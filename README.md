@@ -1,3 +1,3 @@
 # cryptography
 
-Python scripts for a cryptography project completed for AMS 303 - Graph Theory.
+Python scripts for an end of year cryptography project completed for AMS 303 - Graph Theory.
